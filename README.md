@@ -1,4 +1,4 @@
-Code of Conduct and Procedures Templates
+Código de conducta
 ========================================
 
 This repository contains markdown templates for:
